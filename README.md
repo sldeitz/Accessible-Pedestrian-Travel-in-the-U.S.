@@ -1,6 +1,7 @@
 # Accessible Pedestrian Travel in the U.S.
+According to the Bureau of Transportation Statistics , 7 out of 10 persons with disability reduce their day-to-day travel because of their disability.  
 
-One Paragraph of project description goes here
+Safe and efficient mobility for all is paramount to strong communities. This project centers the transportation challenges of pedestrians with disabilities by first assessing existing open data on urban environments across 179 municipalities in the United States and second developing methods for interpolating missing datasets that could be used to facilitate accessible transportation. Google Maps recently introduced wheelchair accessible routes for public transportation, however there is still a significant gap in data and tools that facilitate multi-modal transportation for persons with disability.   
 
 ## Getting Started
 
